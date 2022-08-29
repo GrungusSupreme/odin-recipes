@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    text-decoration:underline;
+    font-size: 100px;
+    background-color:#703423;
+    margin-right:450px;
+    margin-left: 450px;
+}
+
+h2 {
+    text-align: center;
+    background-color:#703423;
+    margin-right:650px;
+    margin-left: 650px;
+}
+
+html {
+    background-image:url(../imgs/barrel.jpeg)
+}
+
+ul {
+    display:table;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    font-size:large;
+    background-color:#703423;
+}
+
+a:link {
+    color:black;
+}
+
+a:hover {
+    color:green;
+}
+
+a:visited {
+    color:black;
+}
+    

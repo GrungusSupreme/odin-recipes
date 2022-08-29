@@ -1,0 +1,147 @@
+header {
+  background-color:#8C6D66;
+  text-decoration-color: black;
+}
+
+h1 {
+    text-align:center;
+    text-decoration: underline;
+}
+
+html {
+    background-color: #8C6D66;
+}
+
+.food {
+float:right;
+}
+
+.food_pic {
+    margin-right:auto;
+    height:80%;
+    width: 100%;
+}
+
+.food_words {
+    text-align:center;
+}
+
+.logo_words {    
+    text-align:center;
+    
+}
+
+.logo {
+    float:left;
+}
+
+.logo_pic {
+    height:300px;
+    width:330px;
+}
+
+p {
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    }
+
+.description {
+    background-color: darkgrey;
+    margin-left:550px;
+    margin-right:550px;
+    font-size:large;
+}
+
+h2 {
+    text-align:center;
+}
+
+.icons {
+    display:flex;
+    margin-left:687px;
+    margin-right:550px;
+}
+
+.prep_cap , .cook_cap , .total_cap {
+    text-align:center;
+}
+
+.prep , .cook , .total {
+    height: 100px;
+    width: 100px;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+    background-color:darkgrey;
+  }
+
+  ol {
+    display:table;
+    margin-left:450px;
+    margin-right:450px;
+    background-color:darkgrey;
+    font-size:larger;
+  }
+  
+  .nutes {
+    border: 2px solid black;
+    width: 270px;
+    margin: 20px auto;
+    padding: 0 7px;
+    background-color: darkgrey;
+  }
+
+  .nute_facts {
+  text-align: center;
+  margin: -4px 0;
+  letter-spacing: 0.15px
+  }
+
+  .divider {
+    border-bottom: 1px solid black;
+    margin: 2px 0;
+    clear: right;
+  }
+
+  .bold {
+    font-weight: 800;
+  }
+  
+  .right {
+    float: right;
+  }
+  
+  .lg {
+    height: 10px;
+  }
+  
+  .lg, .md {
+    background-color: black;
+    border: 0;
+  }
+  
+  .md {
+    height: 5px;
+  }
+  
+  .sm-text {
+    font-size: 0.85rem;
+  }
+
+  .nute_p {
+    text-align:left;
+  }
+
+  .noodles {
+    float:right;
+    height:300px;
+    width:400px;
+  }
+
+  .recipe_title {
+    text-align:center;
+    margin-left: 490px;
+  }
